@@ -1,3 +1,3 @@
 ### slack_bot_experiment
 
-Slack Bot Ignorance Reduction Project
+Making Slack Bots
