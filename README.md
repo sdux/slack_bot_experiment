@@ -1,3 +1,5 @@
-### slack_bot_experiment
+## slack_bot_experiment
 
 Making Slack Bots
+
+![My image](sdux.github.com/slack_bot_experiment/shop_bot_testing.png)
